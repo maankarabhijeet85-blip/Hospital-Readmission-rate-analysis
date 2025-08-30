@@ -1,2 +1,4 @@
-# Hospital-Readmission-rate-analysis
-I developed an Excel dashboard using multiple statistical tools such as mean analysis and correlation analysis, presented through various charts. The dashboard highlights key factors contributing to the increasing rate of patient readmissions.
+# Objectives
+Profile readmission distribution across demographics (age, race, gender) and encounter variables (procedures, emergencies, inpatient/outpatient use). 
+
+Quantify bivariate relationships (e.g., emergencies vs. readmission) and compare readmission means across cohorts (e.g., diabetes-medication change vs. no change). 
